@@ -1,2 +1,6 @@
-abc
-12345
+backup:
+git log
+git revert ...
+git push
+-thay doi trên git
+git pull
